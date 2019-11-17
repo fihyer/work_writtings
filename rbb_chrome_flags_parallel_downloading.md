@@ -14,7 +14,7 @@
 
 下面小办就带你三步解锁谷歌浏览器多线程高速下载功能：
 
-1、点击打开：[chrome://flags/#enable-parallel-downloading](chrome://flags/#enable-parallel-downloading)
+1、在谷歌浏览器代开链接：[chrome://flags/#enable-parallel-downloading](chrome://flags/#enable-parallel-downloading)
 
 2、在Parallel Downloading处选择“enable”
 
